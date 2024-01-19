@@ -1,5 +1,4 @@
 # crypto-js
-
 JavaScript library of crypto standards.
 
 ## Discontinued
@@ -103,6 +102,11 @@ require(["crypto-js"], function (CryptoJS) {
     var encrypted = CryptoJS.AES(...);
     var encrypted = CryptoJS.SHA256(...);
 </script>
+```
+
+### Usage CDN library
+```
+https://cdnjs.com/libraries/crypto-js/4.2.0
 ```
 
 ## API
